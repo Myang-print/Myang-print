@@ -66,13 +66,12 @@ const myang = {
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Myang-print/Myang-print/output/github-snake.svg" />
   </picture>
 </p>
+
 ### Featured Work
 
-> This section is ready for your best repositories. Replace the placeholders below once you decide which projects should represent you.
-
-- **Project One** - A practical tool or app that solves a real problem.
-- **Project Two** - A technical experiment, open-source contribution, or learning project.
-- **Project Three** - A polished project that shows your engineering taste.
+- [**On-call-Assistant**](https://github.com/Myang-print/On-call-Assistant) - An assistant project focused on on-call workflows.
+- [**TKLibrary**](https://github.com/Myang-print/TKLibrary) - A library project for reusable tools and code organization.
+- [**SilentScreen-Alarm**](https://github.com/Myang-print/SilentScreen-Alarm) - An alarm project built around silent-screen scenarios.
 
 ### Connect
 
