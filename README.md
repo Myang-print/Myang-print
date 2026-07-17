@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MyangDev</h1>
+<h1 align="center">Hi, I'm Myang</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Building+practical+developer+tools;Learning+AI+and+full-stack+systems;Shipping+small+projects+in+public" alt="Typing SVG" />
