@@ -76,7 +76,7 @@ const myang = {
 ### Connect
 
 - GitHub: [@Myang-print](https://github.com/Myang-print)
-- Email: `your.email@example.com`
+- Email: [@Myang-print](http://yanghaoran0416@gmail.com)
 
 ---
 
