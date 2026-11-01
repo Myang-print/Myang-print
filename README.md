@@ -53,11 +53,6 @@ const myang = {
 ### GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Myang-print&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myang-print&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myang-print/Myang-print/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myang-print/Myang-print/output/github-snake.svg" />
@@ -74,7 +69,8 @@ const myang = {
 ### Connect
 
 - GitHub: [@Myang-print](https://github.com/Myang-print)
-- Email: [@Myang-print](http://yanghaoran0416@gmail.com)
+- Email: [@Myang-print](http://myangprint@gmail.com)
+- codeforces: Mayng_print
 
 ---
 
