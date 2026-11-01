@@ -52,8 +52,6 @@ const myang = {
 
 ### GitHub Activity
 
-[![Myang-print's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Myang-print&theme=github-compact&hide_border=true&radius=8&days=45)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Myang-print&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myang-print&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
